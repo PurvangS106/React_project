@@ -1,0 +1,109 @@
+{
+  "user": [
+    {
+      "id": "1683989415764",
+      "name": "Parth Shingala",
+      "email": "Parth@gmail.com",
+      "password": "123456",
+      "mobile": "7225639586",
+      "status": "Block"
+    },
+    {
+      "id": "1684075069202",
+      "name": "Purvang Suhagiya",
+      "email": "suhagiyapurvang006@gmail.com",
+      "password": "2110",
+      "mobile": "5445454554",
+      "status": "Block"
+    },
+    {
+      "id": "1684075817126",
+      "name": "Pragnesh Patel",
+      "email": "pragnesh@gmail.com",
+      "password": "5675",
+      "mobile": "5236987410",
+      "status": "Block"
+    },
+    {
+      "id": "1684394706064",
+      "name": "Jay Bhavsar",
+      "email": "jaybhavsar3374@gmail.com",
+      "password": "142536",
+      "mobile": "1425369874",
+      "status": "Block"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1684423873636",
+      "name": "Jay",
+      "email": "jaypatel3374@gmail.com",
+      "subject": "Bad Feedback",
+      "message": "I am writing this because i am tired"
+    },
+    {
+      "id": "1684424004462",
+      "name": "Purvang",
+      "email": "purvangsuhagiya@gmail.com",
+      "subject": "Request for support",
+      "message": "Please help us to find why jQuery isn't working??? "
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "Superman",
+      "email": "mrsuperman@gmail.com",
+      "password": "mrsuperman_0512",
+      "designation": "Web Developer",
+      "joining": " Nov. 2022"
+    }
+  ],
+  "product": [
+    {
+      "id": "1285268356587",
+      "image": "http://localhost:3000/img/package-1.jpg",
+      "name": "Thailand",
+      "days": "3",
+      "person": "2",
+      "price": "30000",
+      "description": "Thailand is very beautiful place for sightseeing, watching sunset and relaxing."
+    },
+    {
+      "id": "1685268356587",
+      "image": "https://images.unsplash.com/photo-1619120238346-978e07731e77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Maldives Islands",
+      "days": "10",
+      "person": "2",
+      "description": "Level up your next vacation with iconic hotels and award-winning theme parks on Maldives Island.",
+      "price": "69999"
+    },
+    {
+      "id": "1685269318037",
+      "image": "https://images.unsplash.com/photo-1583354009936-42ef436d5f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8ODB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Secret Beach Belize",
+      "days": "1",
+      "person": "4",
+      "description": "The place has great swimming pool and several popular bars and restuarant",
+      "price": "10000"
+    },
+    {
+      "id": "1685269504558",
+      "image": "https://images.unsplash.com/photo-1477735392287-289ae08ee862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Santa Monica",
+      "days": "2",
+      "person": "5",
+      "description": "Welcome to the Santa Monica Pier! · Jutting out into the Pacific Ocean at the intersection of Ocean and Colorado.",
+      "price": "20000"
+    },
+    {
+      "id": "1685270155286",
+      "image": "https://images.unsplash.com/photo-1493221875746-1203de4f7a56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NDh8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "name": "Bangkok",
+      "days": "5",
+      "person": "4",
+      "description": " it has a magnificent palaces, skyscrapers, museums and markets.",
+      "price": "75000"
+    }
+  ]
+}
